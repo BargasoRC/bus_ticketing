@@ -76,7 +76,6 @@
     data: () => ({
       items: [
           { title: 'Dashboard', icon: 'fas fa-tachometer-alt' },
-          { title: 'Bookings', icon: 'fas fa-book'},
           { title: 'Buses', icon: 'fas fa-bus-alt'},
           { title: 'Schedules', icon: 'far fa-calendar-alt' },
           { title: 'My Account', icon: 'far fa-user-circle' },
