@@ -67,7 +67,7 @@
 
 <script>
 
-  import dashboard from "../components/dashboard.vue";
+  import dashboard from "../components/buses.vue";
 
   export default {
     components:{
